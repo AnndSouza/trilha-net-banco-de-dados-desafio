@@ -63,5 +63,4 @@ INNER JOIN Atores ON Filmes.Id = Atores.Id
 INNER JOIN ElencoFilme ON Filmes.Id = ElencoFilme.Id
 
 
-SELECT * FROM Generos
-WHERE Genero LIKE 'Mistério%'
+
